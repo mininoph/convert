@@ -1,0 +1,14 @@
+Hello dear friend, I am very happy that you have purchased this project.
+
+Here's what you'll need to start this project:
+
+1) Web Hosting (supports HTML, CSS, JavaScript)
+2) Domain for your website or project you want to build
+
+Getting Started Guide:
+
+You unzip the file -> put the folder on your localhost -> open index.html
+
+If you have any questions and suggestions, you can write to my e-mail at anoyatillo16@gmail.com or via telegram at https://t.me/Oyatillo_52
+
+Thank you.
